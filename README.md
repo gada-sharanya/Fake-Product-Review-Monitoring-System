@@ -14,3 +14,5 @@ The determination of polarity in sentiment analysis is usually based on the anal
 
 The polarity of a piece of text can have important implications for businesses and organizations, as it can indicate customer satisfaction or dissatisfaction, which in turn can impact brand reputation and customer loyalty. Therefore, sentiment analysis that accurately identifies polarity can be a valuable tool for businesses and organizations looking to better understand their customers' attitudes and emotions.
 
+
+In this project, I have implemented Random forest
