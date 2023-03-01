@@ -15,7 +15,7 @@ The determination of polarity in sentiment analysis is usually based on the anal
 The polarity of a piece of text can have important implications for businesses and organizations, as it can indicate customer satisfaction or dissatisfaction, which in turn can impact brand reputation and customer loyalty. Therefore, sentiment analysis that accurately identifies polarity can be a valuable tool for businesses and organizations looking to better understand their customers' attitudes and emotions.
 
 
-In this project, I have Multinomail Naive bayes using 5-fold Cross validation.Thereafter, I adopted Machine-learning based sentiment analysis and classified the product reviews as Truthful review and Deceptive Review using polarity. If the polarity of text is identified as a negative polarity by the "Naive Bayes" algorithm the review is termed as deceptive review else it is a truthful review.
+***In this project, I have Multinomail Naive bayes using 5-fold Cross validation.Thereafter, I adopted Machine-learning based sentiment analysis and classified the product reviews as Truthful review and Deceptive Review using polarity. If the polarity of text is identified as a negative polarity by the "Naive Bayes" algorithm the review is termed as deceptive review else it is a truthful review.***
 
 
 Multinomial Naive Bayes is a machine learning algorithm used for text classification tasks such as document classification, spam filtering, and sentiment analysis. It is a variant of the Naive Bayes algorithm that is suitable for discrete data, where the input features are discrete counts, such as word frequencies in a document.
