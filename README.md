@@ -13,3 +13,4 @@ In the context of sentiment analysis, polarity refers to the sentiment expressed
 The determination of polarity in sentiment analysis is usually based on the analysis of words and phrases that convey positive or negative emotions. For example, words like "great," "amazing," and "fantastic" are often associated with positive polarity, while words like "terrible," "horrible," and "awful" are often associated with negative polarity.
 
 The polarity of a piece of text can have important implications for businesses and organizations, as it can indicate customer satisfaction or dissatisfaction, which in turn can impact brand reputation and customer loyalty. Therefore, sentiment analysis that accurately identifies polarity can be a valuable tool for businesses and organizations looking to better understand their customers' attitudes and emotions.
+
