@@ -15,4 +15,11 @@ The determination of polarity in sentiment analysis is usually based on the anal
 The polarity of a piece of text can have important implications for businesses and organizations, as it can indicate customer satisfaction or dissatisfaction, which in turn can impact brand reputation and customer loyalty. Therefore, sentiment analysis that accurately identifies polarity can be a valuable tool for businesses and organizations looking to better understand their customers' attitudes and emotions.
 
 
-In this project, I have implemented Random forest
+In this project, I have Multinomail Naive bayes using 5-fold Cross validation.Thereafter, I adopted Machine-learning based sentiment analysis and classified the product reviews as Truthful review and Deceptive Review using polarity. If the polarity of text is identified as a negative polarity by the "Naive Bayes" algorithm the review is termed as deceptive review else it is a truthful review.
+
+
+Multinomial Naive Bayes is a machine learning algorithm used for text classification tasks such as document classification, spam filtering, and sentiment analysis. It is a variant of the Naive Bayes algorithm that is suitable for discrete data, where the input features are discrete counts, such as word frequencies in a document.
+
+The algorithm works by calculating the probability of a document belonging to a certain class (e.g. spam or ham), given the frequencies of each word in the document. The probability is calculated using Bayes' theorem, which states that the probability of a hypothesis (class) given some observed evidence (word frequencies) is proportional to the product of the prior probability of the hypothesis (class) and the likelihood of the evidence given the hypothesis (class).
+
+The "naive" part of the algorithm comes from the assumption that the features (word frequencies) are independent of each other, which is not always true in practice. However, this assumption simplifies the calculation of the probability and makes the algorithm computationally efficient.
